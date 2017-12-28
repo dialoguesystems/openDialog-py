@@ -1,2 +1,2 @@
 # openDialog-mx
-Open Source Dialog System in MXNet
+Open Source Dialog System in PyTorch
