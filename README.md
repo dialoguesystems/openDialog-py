@@ -1,2 +1,2 @@
 # openDialog-mx
-Open Source
+Open Source Dialog System in MXNet
